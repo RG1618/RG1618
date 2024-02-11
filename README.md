@@ -1,9 +1,11 @@
-### Hi there 👋
+## Cybersecurity Professional | IT Support Technician
 
-<!--
-**RG1618/RG1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
 
-Here are some ideas to get you started:
+### Work Experience
+
+### Projects
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
